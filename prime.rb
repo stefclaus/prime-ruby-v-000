@@ -2,6 +2,8 @@
 def prime?(num)
   if 
     return false 
-  else 
+  elsif
     return 
+  else 
+    
 end 
