@@ -7,3 +7,5 @@ def prime?(num)
   else 
     
 end 
+
+sqrt(x)
