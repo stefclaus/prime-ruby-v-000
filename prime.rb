@@ -5,6 +5,7 @@ def prime?(num)
   elsif num = 2 || 3 
     return true
   else 
+    return false 
  end    
 end 
 
