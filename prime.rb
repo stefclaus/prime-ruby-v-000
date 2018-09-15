@@ -8,6 +8,6 @@ def prime?(num)
  end    
 end 
 
-sqrt(x)
+# sqrt(x)
 
- A simple but slow method of checking the primality of a given number n, called trial division, tests whether n is a multiple of any integer between 2 and n {\sqrt {n}}} {\sqrt {n}}.
+# A simple but slow method of checking the primality of a given number n, called trial division, tests whether n is a multiple of any integer between 2 and n {\sqrt {n}}} {\sqrt {n}}.
