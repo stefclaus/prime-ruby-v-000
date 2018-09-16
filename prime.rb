@@ -2,7 +2,7 @@
 def prime?(num)
   if num <= 1 
     return false 
-  elsif num = 2 || num = 3 
+  elsif 
     return true
   else (2..n/2).none? do |x|
     n % x == 0
